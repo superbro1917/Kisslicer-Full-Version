@@ -238,4 +238,4 @@ This repository serves as the official landing page for KISSlicer. The software 
 **Get the most recent version of KISSlicer today!**
 
 ---
-**Last updated:** 2026-10-28 22:28:40 UTC
+**Last updated:** 2026-10-29 02:10:35 UTC
